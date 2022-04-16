@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am rolkoz
+
+<p align="center">
+<img src="https://discord.c99.nl/widget/theme-4/642766253941063701.png">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/rolkoztm/rolkoztm/output/github-contribution-grid-snake.svg)
 
 <!--
 **rolkoztm/rolkoztm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
