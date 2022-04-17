@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 2. 🗣 Commented on [#10](https://github.com/vaxerski/harakiri/issues/10) in [vaxerski/harakiri](https://github.com/vaxerski/harakiri)
 3. 🗣 Commented on [#132](https://github.com/MatHax/Client/issues/132) in [MatHax/Client](https://github.com/MatHax/Client)
 <!--END_SECTION:activity-->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cb1lltren8sbmclxv4fl05b1l&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
