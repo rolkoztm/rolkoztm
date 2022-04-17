@@ -25,9 +25,9 @@ Here are some ideas to get you started:
  ​###​ ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/vaxerski/harakiri/issues/10) in [vaxerski/harakiri](https://github.com/vaxerski/harakiri)
-2. 🗣 Commented on [#10](https://github.com/vaxerski/harakiri/issues/10) in [vaxerski/harakiri](https://github.com/vaxerski/harakiri)
-3. 🗣 Commented on [#132](https://github.com/MatHax/Client/issues/132) in [MatHax/Client](https://github.com/MatHax/Client)
+1. ❗️ Opened issue [#20](https://github.com/DustinRepo/JexClient/issues/20) in [DustinRepo/JexClient](https://github.com/DustinRepo/JexClient)
+2. ❗️ Closed issue [#10](https://github.com/vaxerski/harakiri/issues/10) in [vaxerski/harakiri](https://github.com/vaxerski/harakiri)
+3. 🗣 Commented on [#10](https://github.com/vaxerski/harakiri/issues/10) in [vaxerski/harakiri](https://github.com/vaxerski/harakiri)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
