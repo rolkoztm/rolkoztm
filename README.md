@@ -4,7 +4,7 @@
 <img src="https://discord.c99.nl/widget/theme-4/642766253941063701.png">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/rolkoztm/rolkoztm/output/github-contribution-grid-snake.svg)
-
+[![Repos Badge](https://badges.pufler.dev/repos/rolkoztm)](https://badges.pufler.dev)
 
 Here are some ideas to get you started:
 
