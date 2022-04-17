@@ -23,9 +23,9 @@ Here are some ideas to get you started:
  ​###​ ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com/MatHax/Client/issues/132) in [MatHax/Client](https://github.com/MatHax/Client)
-2. 💪 Opened PR [#2](https://github.com/3mmcUser/Client/pull/2) in [3mmcUser/Client](https://github.com/3mmcUser/Client)
-3. 💪 Opened PR [#1](https://github.com/3mmcUser/Client/pull/1) in [3mmcUser/Client](https://github.com/3mmcUser/Client)
-4. 💪 Opened PR [#63](https://github.com/moom0o/AnarchyExploitFixes/pull/63) in [moom0o/AnarchyExploitFixes](https://github.com/moom0o/AnarchyExploitFixes)
-5. 🗣 Commented on [#10](https://github.com/vaxerski/harakiri/issues/10) in [vaxerski/harakiri](https://github.com/vaxerski/harakiri)
+1. ❗️ Closed issue [#10](https://github.com/vaxerski/harakiri/issues/10) in [vaxerski/harakiri](https://github.com/vaxerski/harakiri)
+2. 🗣 Commented on [#10](https://github.com/vaxerski/harakiri/issues/10) in [vaxerski/harakiri](https://github.com/vaxerski/harakiri)
+3. 🗣 Commented on [#132](https://github.com/MatHax/Client/issues/132) in [MatHax/Client](https://github.com/MatHax/Client)
+4. 💪 Opened PR [#2](https://github.com/3mmcUser/Client/pull/2) in [3mmcUser/Client](https://github.com/3mmcUser/Client)
+5. 💪 Opened PR [#1](https://github.com/3mmcUser/Client/pull/1) in [3mmcUser/Client](https://github.com/3mmcUser/Client)
 <!--END_SECTION:activity-->
