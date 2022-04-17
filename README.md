@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: whag...
 - ⚡ Fun fact: im trans...
 
-###Random dev joke
+### Random dev joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder) 
 
  
- ​###​ ​:​zap​:​ Recent Activity
+ ​###​ ⚡Recent Activity
 
 <!--START_SECTION:activity-->
