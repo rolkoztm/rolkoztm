@@ -8,6 +8,8 @@ on:
   schedule:
       # every 1 hour
     - cron: "0 */1 * * *"
+  workflow_dispatch:
+
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
