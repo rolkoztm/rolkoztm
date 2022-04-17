@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 
 ###Random dev joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder) 
+
+ 
+ ​###​ ​:​zap​:​ Recent Activity
+
+<!--START_SECTION:activity-->
