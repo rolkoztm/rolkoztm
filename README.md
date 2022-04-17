@@ -31,5 +31,7 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+ 
+ <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cb1lltren8sbmclxv4fl05b1l&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
