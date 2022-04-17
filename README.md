@@ -1,7 +1,6 @@
 ### Hi there 👋 I am rolkoz
 [![Visits Badge](https://badges.pufler.dev/visits/rolkoztm/rolkoztm)](https://badges.pufler.dev)
-<p align="center"> 
-[![Repos Badge](https://badges.pufler.dev/repos/rolkoztm)](https://badges.pufler.dev)
+<p align="center"> [![Repos Badge](https://badges.pufler.dev/repos/rolkoztm)](https://badges.pufler.dev)
 <img src="https://discord.c99.nl/widget/theme-4/642766253941063701.png">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/rolkoztm/rolkoztm/output/github-contribution-grid-snake.svg)
