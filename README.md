@@ -1,8 +1,7 @@
-### Hi there 👋 I am rolkoz
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7F11A&lines=rolkoz+%F0%9F%99%8F)](https://git.io/typing-svg)
 
-[![Visits Badge](https://badges.pufler.dev/visits/rolkoztm/rolkoztm)](https://badges.pufler.dev)
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/642766253941063701.png">
 
