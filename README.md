@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: whag...
 - ⚡ Fun fact: im trans...
 
-###take random meme
+###Random dev joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder) 
