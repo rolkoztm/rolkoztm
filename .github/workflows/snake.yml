@@ -6,8 +6,8 @@ name: Generate Snake
 
 on:
   schedule:
-      # every 1 hour
-    - cron: "0 */1 * * *"
+      # every 9 hour
+    - cron: "0 */9 * * *"
 
 
 
