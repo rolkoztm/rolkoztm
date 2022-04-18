@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 2. ❗️ Closed issue [#10](https://github.com/vaxerski/harakiri/issues/10) in [vaxerski/harakiri](https://github.com/vaxerski/harakiri)
 3. 🗣 Commented on [#10](https://github.com/vaxerski/harakiri/issues/10) in [vaxerski/harakiri](https://github.com/vaxerski/harakiri)
 
- 
- 
+4. 🗣 Commented on [#132](https://github.com/MatHax/Client/issues/132) in [MatHax/Client](https://github.com/MatHax/Client)
+5. 💪 Opened PR [#2](https://github.com/3mmcUser/Client/pull/2) in [3mmcUser/Client](https://github.com/3mmcUser/Client)
  
  
  
