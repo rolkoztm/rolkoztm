@@ -28,10 +28,14 @@ Here are some ideas to get you started:
 1. ❗️ Opened issue [#20](https://github.com/DustinRepo/JexClient/issues/20) in [DustinRepo/JexClient](https://github.com/DustinRepo/JexClient)
 2. ❗️ Closed issue [#10](https://github.com/vaxerski/harakiri/issues/10) in [vaxerski/harakiri](https://github.com/vaxerski/harakiri)
 3. 🗣 Commented on [#10](https://github.com/vaxerski/harakiri/issues/10) in [vaxerski/harakiri](https://github.com/vaxerski/harakiri)
-<!--END_SECTION:activity-->
 
-<!--START_SECTION:waka-->
  
- <!--END_SECTION:waka-->
+ 
+ 
+ 
+ 
+ 
+ <!--END_SECTION:activity-->
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cb1lltren8sbmclxv4fl05b1l&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
