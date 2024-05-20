@@ -1,14 +1,27 @@
+# 😎 rolkoz - The Python Enthusiast 🐍
+
+Hey there, coder (or code-enthusiast)! Im rolkoz, your friendly neighborhood Python "guru" (in training). Ok i cant code at all but Im super passionate about all things Python. Let's just say Im a Python enthusiast who really, really likes to pretend I can code. 😅
+
+## About Me
+
+- 🌟 **Python Lover**: I adore Python so much that I dream in code (even if it's just `print("Hello, World!")`).
+- 🛠️ **Learning**: Currently on a journey to level up my Python skills. StackOverflow is my second home.
+- 🎉 **Fun Fact**: My favorite color is pink, just like the vibrant energy I bring to my coding escapades!
+
+## Projects
+
+You won't find any groundbreaking projects here... yet! But stick around, you might witness some epic transformations from "Hello, World!" to "Whoa, that actually works!" (MAYBE)
+
+1. **e**: e
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7F11A&lines=rolkoz+%F0%9F%99%8F)](https://git.io/typing-svg)
-# python enthusiast
+## Connect with Me
+
+- 🐦 [Twitter](https://twitter.com/rolkoz)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rolkoz)
+- 🌐 [My Website](https://rolkoz.com) - still under construction (like my coding skills!)
 
 
+- **life hack**: Coffee + Python = Code (kind of)(wont work)
 
-
-
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/rolkoztm/rolkoztm/output/github-contribution-grid-snake.svg)
-
-### Random dev joke
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder) 
+---
