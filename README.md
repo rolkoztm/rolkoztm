@@ -10,16 +10,15 @@ Hey there, coder (or code-enthusiast)! Im rolkoz, your friendly neighborhood Pyt
 
 ## Projects
 
-You won't find any groundbreaking projects here... yet! But stick around, you might witness some epic transformations from "Hello, World!" to "Whoa, that actually works!" (MAYBE)
+You won't find any groundbreaking projects here... yet! But stick around, you might witness some epic transformations from "Hello, World!" to "wow, that actually works!" (MAYBE)
 
 1. **e**: e
 
 
 ## Connect with Me
 
-- 🐦 [Twitter](https://twitter.com/rolkoz)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rolkoz)
-- 🌐 [My Website](https://rolkoz.com) - still under construction (like my coding skills!)
+
+- 🌐 [website](https://rolkoz.gay) - still under construction (like my coding skills)
 
 
 - **life hack**: Coffee + Python = Code (kind of)(wont work)
