@@ -5,8 +5,8 @@ Hey there, coder (or code-enthusiast)! Im rolkoz, your friendly neighborhood Pyt
 ## About Me
 
 - 🌟 **Python Lover**: I adore Python so much that I dream in code (even if it's just `print("Hello, World!")`).
-- 🛠️ **Learning**: Currently on a journey to level up my Python skills. StackOverflow is my second home.
-- 🎉 **Fun Fact**: My favorite color is pink, just like the vibrant energy I bring to my coding escapades!
+- 🛠️ **Learning**: Atm on a journey to level up my Python skills. StackOverflow is my second home.
+- 🎉 **Fun Fact**: My favorite color is pink!
 
 ## Projects
 
