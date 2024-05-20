@@ -24,4 +24,3 @@ You won't find any groundbreaking projects here... yet! But stick around, you mi
 - **life hack**: Coffee + Python = Code (kind of)(wont work)
 
 ---
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder) 
